@@ -24,8 +24,10 @@ header {
 
 nav {
   background-color: rgba(109, 120, 125, 0.363);
+  text-align: center;
   height: 40px;
-  width: 400;
+  width: 1024px;
+  font-size: medium;
 }
 main {
   height: 400px;
@@ -36,9 +38,10 @@ main {
 }
 
 footer {
-  background-color: rgb(220, 229, 233);
-  height: 100px;
-  width: 1024px;
+  background-color: rgb(109, 120, 125, 0.363);
+  padding-top: 10px;
+  padding-bottom: 20px;
+  height: 20px;
 }
 h1 {
   font-size: 85px;
@@ -54,4 +57,9 @@ h2 {
 p {
   font-size: 15px;
   color: white;
+}
+footer p {
+  font-size: 10px;
+  text-align: center;
+  color: rgb(198, 198, 198);
 }
