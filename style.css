@@ -1,0 +1,32 @@
+body {
+  background-color: gray;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
+
+header {
+  background-color: rgb(29, 29, 66);
+  height: 118px;
+  width: 1024px;
+}
+
+nav {
+  background-color: rgb(220, 229, 233);
+  height: 40px;
+  width: 1024px;
+}
+main {
+  background-color: rgb(221, 212, 195);
+  height: 400px;
+  width: 1024px;
+}
+
+footer {
+  background-color: rgb(220, 229, 233);
+  height: 100px;
+  width: 1024px;
+}
