@@ -8,7 +8,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
-body.home {
+
+body.index {
   background-image: url(img/IMG_0815.jpg);
 }
 body.spain {
@@ -30,6 +31,7 @@ header {
   height: 118px;
   width: 1024px;
   text-align: center;
+  z-index: 2;
 }
 
 nav {
