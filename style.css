@@ -4,12 +4,22 @@ html {
 
 body {
   background-color: gray;
-  background-image: url(img/IMG_0815.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
-
+body.home {
+  background-image: url(img/IMG_0815.jpg);
+}
+body.spain {
+  background-image: url(img/spain.jpg);
+}
+body.london {
+  background-image: url(img/london.jpg);
+}
+body.bulgaria {
+  background-image: url(img/bulgaria.jpg);
+}
 .container {
   margin-left: auto;
   margin-right: auto;
